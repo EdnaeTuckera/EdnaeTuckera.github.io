@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://EdnaeTuckera.github.io/sitemap.xml.gz
